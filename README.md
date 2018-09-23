@@ -9,7 +9,7 @@ We take the [Clothing, Shoes and Jewelry dataset](http://snap.stanford.edu/data/
 python3 convert_json_to_csv.py --json=json_file_name.json --csv=csv_file_name.csv
 ```
 
-## Command for training & testing data
+## Command for training & test model
 ```
 python3 text_classification.py --dataset=file_name.csv
 ```
