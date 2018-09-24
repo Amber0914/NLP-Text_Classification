@@ -6,7 +6,6 @@ def convert_data(my_json, my_csv):
     input_json = open(my_json, "r", encoding="utf-8")
     with open(my_csv, "w", encoding="utf-8") as output_csv:
         csv_writer = csv.writer(output_csv)
-        csv_writer = csv.writer(output_csv)
         flag = 0
         for line in input_json.readlines():
             dic = json.loads(line)
