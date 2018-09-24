@@ -1,5 +1,5 @@
 # [NLP: Text-Classification Tutorial](https://medium.com/@qempsil0914/machine-learning-nlp-text-classification-with-amazon-review-data-using-python3-step-by-step-3fb0cc0cecc1)
-The relative concept and step-by-step tutorial can be obtained from [here](https://medium.com/@qempsil0914/machine-learning-nlp-text-classification-with-amazon-review-data-using-python3-step-by-step-3fb0cc0cecc1).
+The relative concept and step-by-step tutorial can be available [here](https://medium.com/@qempsil0914/machine-learning-nlp-text-classification-with-amazon-review-data-using-python3-step-by-step-3fb0cc0cecc1).
 
 ## [Amazon Dataset](http://jmcauley.ucsd.edu/data/amazon/)
 We take the [Clothing, Shoes and Jewelry dataset](http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Clothing_Shoes_and_Jewelry_5.json.gz) for demonstration, and you can choose any dataset for practice.
