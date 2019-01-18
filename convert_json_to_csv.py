@@ -1,3 +1,4 @@
+# -*- coding: UTF-8 -*-
 import argparse
 import json
 import csv
@@ -14,7 +15,6 @@ def convert_data(my_json, my_csv):
                 csv_writer.writerow(dic)
                 flag = 1
             csv_writer.writerow(dic.values())
-    print("Convert Success")
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
@@ -27,3 +27,4 @@ if __name__ == '__main__':
     args = parser.parse_args()
     
     convert_data(args.json, args.csv)
+    print("Convert Success")
