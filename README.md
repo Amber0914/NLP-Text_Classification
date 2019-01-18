@@ -3,6 +3,11 @@ The relative concept and step-by-step tutorial can be available [here](https://m
 
 ## [Amazon Dataset](http://jmcauley.ucsd.edu/data/amazon/)
 We take the [Clothing, Shoes and Jewelry dataset](http://snap.stanford.edu/data/amazon/productGraph/categoryFiles/reviews_Clothing_Shoes_and_Jewelry_5.json.gz) for demonstration, and you can choose any dataset for practice.
+## Environment
+```
+python 3.5.6
+macOS 10.13.6
+```
 
 ## Command for converting json to csv
 ```
